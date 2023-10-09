@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\bin\Debug\radio button indirim uygulama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\bin\Debug\radio button indirim uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\bin\Debug\radio button indirim uygulama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio button indirim uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio button indirim uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio_button_indirim_uygulama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio_button_indirim_uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio button indirim uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio button indirim uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio button indirim uygulama.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\radio button indirim uygulama\radio button indirim uygulama\obj\Debug\radio button indirim uygulama.pdb
